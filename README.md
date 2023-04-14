@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @msa0911
+- 👋 Hi, I’m Mohammad Soleimani Amiri
 - 👀 I’m interested in robotics and control system
 - 🌱 I’m currently learning ROS and control science
 - 💞️ I’m looking to collaborate on research and R&D projects
